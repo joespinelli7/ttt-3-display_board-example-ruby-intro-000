@@ -9,3 +9,5 @@ def display_board
   puts "#{dash}"
   puts "#{cell}#{separator}#{cell}#{separator}#{cell}"
 end
+
+  display_board
